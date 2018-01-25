@@ -9,3 +9,7 @@ end
 def contain_a(array)
   array.select {|word| word.include?("a")}
 end 
+
+def first_wa(array)
+  
+end 
