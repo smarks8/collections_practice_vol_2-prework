@@ -15,3 +15,7 @@ def first_wa(array)
     word[0] == "w" && word[1] == "a"
   end
 end 
+
+def remove_non_strings(array)
+  
+end 
