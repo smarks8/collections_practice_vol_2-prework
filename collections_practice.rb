@@ -21,3 +21,7 @@ def remove_non_strings(array)
     element != element.to_s
   end 
 end 
+
+def count_elements(array)
+  
+end
